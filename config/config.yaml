@@ -119,8 +119,6 @@ platforms:
   #   name: "华尔街见闻-最新"
   - id: "jin10"
     name: "金十数据"
-  - id: "xueqiu"
-    name: "雪球"
   - id: "zaobao"
     name: "联合早报"
   - id: "solidot"
